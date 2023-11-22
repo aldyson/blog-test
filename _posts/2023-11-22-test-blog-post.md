@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "POST-TITLE"
+permalink: /test
 categories: CATEGORY-1 CATEGORY-2
 ---
 
