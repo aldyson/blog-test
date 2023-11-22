@@ -1,5 +1,11 @@
 theme: jekyll-theme-minimal
 title: Adrian Dyson
 description: All the latest in the world of Angular!
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+    values:
+      layout: "default"
 github:
   is_project_page: false
