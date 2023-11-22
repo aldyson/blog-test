@@ -1,6 +1,8 @@
 theme: jekyll-theme-cayman
 title: Adrian Dyson
 description: All the latest in the world of Angular!
+include:
+  - _posts
 defaults:
   -
     scope:
