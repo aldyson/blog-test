@@ -1,3 +1,5 @@
 theme: jekyll-theme-minimal
 title: Adrian Dyson
 description: All the latest in the world of Angular!
+github:
+  is_project_page: false
